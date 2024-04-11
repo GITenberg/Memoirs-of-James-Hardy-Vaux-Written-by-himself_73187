@@ -1,0 +1,40 @@
+_repo: Memoirs-of-James-Hardy-Vaux-Written-by-himself_73187
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vaux, James Hardy
+    birthdate: 1782
+    gutenberg_agent_id: '56979'
+    url: http://www.gutenberg.org/2009/agents/56979
+    wikipedia: https://en.wikipedia.org/wiki/James_Hardy_Vaux
+description: ''
+gutenberg_issued: '2024-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73187'
+  lccn: unk84075364
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/nyp.33433082394838
+pgterms:marc905: 20201130154359vaux
+pgterms:marc906: '1819'
+pgterms:marc907: GB
+production_note: MWS and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bW Clowes, $c1819.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criminals -- England -- Biography'
+- !lcsh 'Vaux, James Hardy, 1782-'
+- !lcsh 'Thieves -- England -- Biography'
+- !lcsh 'Thieves -- Australia -- New South Wales -- Biography'
+- !lcsh 'Cant -- Glossaries, vocabularies, etc.'
+- !lcsh 'Flash (Prisoners'' dialect) -- Glossaries, vocabularies, etc.'
+- !lcsh 'English language -- Great Britain -- Slang -- Glossaries, vocabularies, etc.'
+- !lcsh 'Rogues and vagabonds -- Great Britain -- Language -- Glossaries, vocabularies,
+  etc.'
+- !lcc 'HV'
+- GITenberg
+title: Memoirs of James Hardy Vaux. Written by himself.
+url: http://www.gutenberg.org/ebooks/73187
